@@ -1,0 +1,330 @@
+[
+  {
+    "ContainingType": "MesaListoAPI.Controllers.AuthController",
+    "Method": "CrearCuenta",
+    "RelativePath": "api/Auth/crearCuenta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Auth.CrearCuentaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.AuthController",
+    "Method": "IniciarSesion",
+    "RelativePath": "api/Auth/iniciarSesion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Auth.IniciarSesionRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ComunidadesController",
+    "Method": "BuscarComunidadesPorNombre",
+    "RelativePath": "api/Comunidades/buscarComunidadesPorNombre/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ComunidadesController",
+    "Method": "CrearComunidad",
+    "RelativePath": "api/Comunidades/crearComunidad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Comunidades.CrearComunidadRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ComunidadesController",
+    "Method": "GetComunidadesPopularesParaExplorar",
+    "RelativePath": "api/Comunidades/getComunidadesPopularesParaExplorar/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ComunidadesController",
+    "Method": "GetMisComunidades",
+    "RelativePath": "api/Comunidades/getMisComunidades/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ComunidadesController",
+    "Method": "SalirComunidad",
+    "RelativePath": "api/Comunidades/salirComunidad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Comunidades.SalirComunidadRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ComunidadesController",
+    "Method": "UnirseComunidad",
+    "RelativePath": "api/Comunidades/unirseComunidad",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Comunidades.UnirseComunidadRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.EventosController",
+    "Method": "AsistirEvento",
+    "RelativePath": "api/Eventos/asistirEvento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Eventos.AsistirEventoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.EventosController",
+    "Method": "CancelarAsistenciaEvento",
+    "RelativePath": "api/Eventos/cancelarAsistenciaEvento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Eventos.CancelarAsistenciaEventoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.EventosController",
+    "Method": "CrearEvento",
+    "RelativePath": "api/Eventos/crearEvento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Eventos.CrearEventoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.EventosController",
+    "Method": "GetDetalleEvento",
+    "RelativePath": "api/Eventos/getDetalleEvento/{usuarioId}/{eventoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "eventoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.EventosController",
+    "Method": "GetEventosProximos",
+    "RelativePath": "api/Eventos/getEventosProximos/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.EventosController",
+    "Method": "GetMisEventosAgendados",
+    "RelativePath": "api/Eventos/getMisEventosAgendados/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.HealthController",
+    "Method": "CheckDatabaseConnection",
+    "RelativePath": "api/Health/database",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.JuegosController",
+    "Method": "ListarActivos",
+    "RelativePath": "api/Juegos/getJuegosActivos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.NoticiasController",
+    "Method": "CrearNoticia",
+    "RelativePath": "api/Noticias/crearNoticia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Noticias.CrearNoticiaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.NoticiasController",
+    "Method": "GetNoticiasPorComunidad",
+    "RelativePath": "api/Noticias/getNoticiasPorComunidad/{usuarioId}/{comunidadId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "comunidadId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ReplicasController",
+    "Method": "CrearReplica",
+    "RelativePath": "api/Replicas/crearReplica",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "MesaListo.Application.DTOs.Replicas.CrearReplicaRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MesaListoAPI.Controllers.ReplicasController",
+    "Method": "GetReplicasPorNoticia",
+    "RelativePath": "api/Replicas/getReplicasPorNoticia/{usuarioId}/{noticiaId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "noticiaId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

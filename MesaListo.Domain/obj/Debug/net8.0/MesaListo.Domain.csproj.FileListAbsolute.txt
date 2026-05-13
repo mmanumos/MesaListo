@@ -1,0 +1,11 @@
+C:\Users\mosqu\source\repos\MesaListo.Domain\bin\Debug\net8.0\MesaListo.Domain.deps.json
+C:\Users\mosqu\source\repos\MesaListo.Domain\bin\Debug\net8.0\MesaListo.Domain.dll
+C:\Users\mosqu\source\repos\MesaListo.Domain\bin\Debug\net8.0\MesaListo.Domain.pdb
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\MesaListo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\MesaListo.Domain.AssemblyInfoInputs.cache
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\MesaListo.Domain.AssemblyInfo.cs
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\MesaListo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\MesaListo.Domain.dll
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\refint\MesaListo.Domain.dll
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\MesaListo.Domain.pdb
+C:\Users\mosqu\source\repos\MesaListo.Domain\obj\Debug\net8.0\ref\MesaListo.Domain.dll

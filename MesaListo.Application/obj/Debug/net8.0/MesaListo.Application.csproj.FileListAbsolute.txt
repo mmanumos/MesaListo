@@ -1,0 +1,15 @@
+C:\Users\mosqu\source\repos\MesaListo.Application\bin\Debug\net8.0\MesaListo.Application.deps.json
+C:\Users\mosqu\source\repos\MesaListo.Application\bin\Debug\net8.0\MesaListo.Application.dll
+C:\Users\mosqu\source\repos\MesaListo.Application\bin\Debug\net8.0\MesaListo.Application.pdb
+C:\Users\mosqu\source\repos\MesaListo.Application\bin\Debug\net8.0\MesaListo.Domain.dll
+C:\Users\mosqu\source\repos\MesaListo.Application\bin\Debug\net8.0\MesaListo.Domain.pdb
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaListo.Application.csproj.AssemblyReference.cache
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaListo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaListo.Application.AssemblyInfoInputs.cache
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaListo.Application.AssemblyInfo.cs
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaListo.Application.csproj.CoreCompileInputs.cache
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaList.027FBFEE.Up2Date
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaListo.Application.dll
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\refint\MesaListo.Application.dll
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\MesaListo.Application.pdb
+C:\Users\mosqu\source\repos\MesaListo.Application\obj\Debug\net8.0\ref\MesaListo.Application.dll

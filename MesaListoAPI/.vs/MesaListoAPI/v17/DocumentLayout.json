@@ -1,0 +1,945 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\services\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\eventos\\cancelarasistenciaeventorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\eventos\\eventoresumendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\dependencyinjection\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\eventos\\resultadocreareventodbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\eventos\\creareventoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\eventos\\creareventorequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\controllers\\replicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:controllers\\replicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\services\\replicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\repositories\\replicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\ireplicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\replicas\\resultadocrearreplicadbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\replicas\\crearreplicaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\replicas\\crearreplicarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\replicas\\replicaresumendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:controllers\\noticiascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\services\\noticiaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\repositories\\noticiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\inoticiarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\noticias\\resultadocrearnoticiadbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\noticias\\crearnoticiaresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\noticias\\crearnoticiarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\noticias\\noticiaresumendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\controllers\\comunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:controllers\\comunidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\services\\comunidadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\repositories\\comunidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\icomunidadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\salircomunidadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\comunidadaccionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\resultadocomunidadacciondbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\unirsecomunidadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\resultadocrearcomunidaddbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\crearcomunidadresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\crearcomunidadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\comunidades\\comunidadresumendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\persistence\\sqlstoredprocedureexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\auth\\resultadocrearusuariodbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\auth\\usuariologindbdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\auth\\usuariosesiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\auth\\iniciarsesionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\dtos\\auth\\crearcuentarequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\persistence\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\repositories\\juegorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\services\\juegoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\ijuegorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\mesalisto.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|c:\\users\\mosqu\\source\\repos\\mesalistoapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCE1AED-B6FE-4100-90CB-A598A4E907A1}|MesaListoAPI.csproj|solutionrelative:controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC3AD7-65BE-4626-AD92-CADD7B4BADBA}|..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.infrastructure\\persistence\\databaseconnectiontester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BBC55A8-4439-4268-9C64-BE5AF59CA881}|..\\MesaListo.Application\\MesaListo.Application.csproj|c:\\users\\mosqu\\source\\repos\\mesalisto.application\\interfaces\\idatabaseconnectiontester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T01:31:34.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CancelarAsistenciaEventoRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\CancelarAsistenciaEventoRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Eventos\\CancelarAsistenciaEventoRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\CancelarAsistenciaEventoRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Eventos\\CancelarAsistenciaEventoRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T00:10:47.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventoResumenDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\EventoResumenDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Eventos\\EventoResumenDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\EventoResumenDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Eventos\\EventoResumenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T00:00:36.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventosController.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\EventosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventosController.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\EventosController.cs",
+              "RelativeToolTip": "Controllers\\EventosController.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:57:16.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventoService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\EventoService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Services\\EventoService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\EventoService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Services\\EventoService.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAQwBoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:55:52.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\EventoRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Repositories\\EventoRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\EventoRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Repositories\\EventoRepository.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAAACIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:54:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEventoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IEventoRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\IEventoRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IEventoRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\IEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:54:06.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultadoCrearEventoDbDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\ResultadoCrearEventoDbDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Eventos\\ResultadoCrearEventoDbDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\ResultadoCrearEventoDbDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Eventos\\ResultadoCrearEventoDbDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:53:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearEventoResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoResponseDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoResponseDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:53:16.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrearEventoRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Eventos\\CrearEventoRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:52:45.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InfrastructureServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\DependencyInjection\\InfrastructureServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T02:28:02.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResultadoCrearReplicaDbDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\ResultadoCrearReplicaDbDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Replicas\\ResultadoCrearReplicaDbDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\ResultadoCrearReplicaDbDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Replicas\\ResultadoCrearReplicaDbDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:44:15.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CrearReplicaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaResponseDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaResponseDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:43:54.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CrearReplicaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Replicas\\CrearReplicaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:43:32.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReplicasController.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\ReplicasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReplicasController.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\ReplicasController.cs",
+              "RelativeToolTip": "Controllers\\ReplicasController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:38:14.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReplicaService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\ReplicaService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Services\\ReplicaService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\ReplicaService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Services\\ReplicaService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:37:03.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReplicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\ReplicaRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Repositories\\ReplicaRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\ReplicaRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Repositories\\ReplicaRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:35:23.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IReplicaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IReplicaRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\IReplicaRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IReplicaRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\IReplicaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:34:33.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReplicaResumenDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\ReplicaResumenDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Replicas\\ReplicaResumenDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Replicas\\ReplicaResumenDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Replicas\\ReplicaResumenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:33:59.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CrearNoticiaResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaResponseDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaResponseDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:25:15.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CrearNoticiaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Noticias\\CrearNoticiaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:24:55.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResultadoCrearNoticiaDbDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\ResultadoCrearNoticiaDbDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Noticias\\ResultadoCrearNoticiaDbDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\ResultadoCrearNoticiaDbDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Noticias\\ResultadoCrearNoticiaDbDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:25:32.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NoticiasController.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\NoticiasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NoticiasController.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\NoticiasController.cs",
+              "RelativeToolTip": "Controllers\\NoticiasController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:22:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NoticiaService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\NoticiaService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Services\\NoticiaService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\NoticiaService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Services\\NoticiaService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:20:42.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NoticiaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\NoticiaRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Repositories\\NoticiaRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\NoticiaRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Repositories\\NoticiaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:19:34.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INoticiaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\INoticiaRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\INoticiaRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\INoticiaRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\INoticiaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:18:53.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NoticiaResumenDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\NoticiaResumenDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Noticias\\NoticiaResumenDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Noticias\\NoticiaResumenDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Noticias\\NoticiaResumenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:18:22.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UnirseComunidadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\UnirseComunidadRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\UnirseComunidadRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\UnirseComunidadRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\UnirseComunidadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:04:55.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IComunidadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IComunidadRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\IComunidadRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IComunidadRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\IComunidadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:46:12.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SalirComunidadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\SalirComunidadRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\SalirComunidadRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\SalirComunidadRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\SalirComunidadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:12:50.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ComunidadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\ComunidadRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Repositories\\ComunidadRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\ComunidadRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Repositories\\ComunidadRepository.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAAYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:47:36.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ComunidadService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\ComunidadService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Services\\ComunidadService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\ComunidadService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Services\\ComunidadService.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAqwBUBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:48:55.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ComunidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\ComunidadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComunidadesController.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\ComunidadesController.cs",
+              "RelativeToolTip": "Controllers\\ComunidadesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:50:52.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ComunidadAccionResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadAccionResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadAccionResponseDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadAccionResponseDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadAccionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:05:18.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ResultadoComunidadAccionDbDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoComunidadAccionDbDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoComunidadAccionDbDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoComunidadAccionDbDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoComunidadAccionDbDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T23:05:34.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CrearComunidadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:56:18.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CrearComunidadResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadResponseDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadResponseDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\CrearComunidadResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:56:52.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ResultadoCrearComunidadDbDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoCrearComunidadDbDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoCrearComunidadDbDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoCrearComunidadDbDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\ResultadoCrearComunidadDbDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:57:57.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ComunidadResumenDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadResumenDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadResumenDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadResumenDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Comunidades\\ComunidadResumenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:45:11.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:36:08.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:33:00.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\PasswordService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:31:48.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\IPasswordService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IPasswordService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\IPasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:31:25.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:30:53.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResultadoCrearUsuarioDbDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\ResultadoCrearUsuarioDbDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Auth\\ResultadoCrearUsuarioDbDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\ResultadoCrearUsuarioDbDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Auth\\ResultadoCrearUsuarioDbDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:30:01.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UsuarioLoginDbDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\UsuarioLoginDbDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Auth\\UsuarioLoginDbDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\UsuarioLoginDbDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Auth\\UsuarioLoginDbDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:29:43.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:35:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UsuarioSesionDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\UsuarioSesionDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Auth\\UsuarioSesionDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\UsuarioSesionDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Auth\\UsuarioSesionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:29:26.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SqlStoredProcedureExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Persistence\\SqlStoredProcedureExecutor.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Persistence\\SqlStoredProcedureExecutor.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Persistence\\SqlStoredProcedureExecutor.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Persistence\\SqlStoredProcedureExecutor.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T03:59:55.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IniciarSesionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\IniciarSesionRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Auth\\IniciarSesionRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\IniciarSesionRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Auth\\IniciarSesionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:29:04.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CrearCuentaRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\CrearCuentaRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\DTOs\\Auth\\CrearCuentaRequestDto.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\DTOs\\Auth\\CrearCuentaRequestDto.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\DTOs\\Auth\\CrearCuentaRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T22:26:59.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-02T02:20:54.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "JuegosController.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\JuegosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JuegosController.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\JuegosController.cs",
+              "RelativeToolTip": "Controllers\\JuegosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:14:36.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IJuegoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IJuegoRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\IJuegoRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IJuegoRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\IJuegoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:08:36.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "JuegoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\JuegoRepository.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Repositories\\JuegoRepository.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Repositories\\JuegoRepository.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Repositories\\JuegoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:09:59.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "JuegoService.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\JuegoService.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Services\\JuegoService.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Services\\JuegoService.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Services\\JuegoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T04:12:01.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Persistence\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T02:24:12.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MesaListo.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\MesaListo.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-02T02:19:09.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IDatabaseConnectionTester.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IDatabaseConnectionTester.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Application\\Interfaces\\IDatabaseConnectionTester.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Application\\Interfaces\\IDatabaseConnectionTester.cs",
+              "RelativeToolTip": "..\\MesaListo.Application\\Interfaces\\IDatabaseConnectionTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T02:31:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DatabaseConnectionTester.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Persistence\\DatabaseConnectionTester.cs",
+              "RelativeDocumentMoniker": "..\\MesaListo.Infrastructure\\Persistence\\DatabaseConnectionTester.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListo.Infrastructure\\Persistence\\DatabaseConnectionTester.cs",
+              "RelativeToolTip": "..\\MesaListo.Infrastructure\\Persistence\\DatabaseConnectionTester.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T02:32:50.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\mosqu\\source\\repos\\MesaListoAPI\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "Controllers\\HealthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T02:37:09.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
