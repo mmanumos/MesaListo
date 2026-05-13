@@ -1,4 +1,4 @@
-# MesaListo API - Backend
+# MesaListo API REST .NET - Backend
 
 MesaListo API es el backend del proyecto **MesaListo**, una aplicación web tipo PWA orientada a la gestión de comunidades de juegos de mesa, eventos, noticias y participación de usuarios.
 
